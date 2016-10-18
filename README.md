@@ -30,6 +30,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 http://i.imgur.com/Zwgl6DN.gifv
+Networking error screenshot (couldn't do whole thing in one vid): http://imgur.com/a/nELb0
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
